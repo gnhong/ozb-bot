@@ -1,0 +1,22 @@
+{
+  "name": "ozb-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that consume RSS feeds from ozbargain.com.au",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnhong/ozb-bot.git"
+  },
+  "author": "Aaron Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnhong/ozb-bot/issues"
+  },
+  "homepage": "https://github.com/gnhong/ozb-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
